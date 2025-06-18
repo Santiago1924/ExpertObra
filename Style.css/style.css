@@ -114,10 +114,6 @@
   box-shadow: none;
 }
 
-/* ---------------------- HERO SECTION / CUERPO ---------------------- */
-
-
-
 /* Texto principal (h1) superpuesto sobre imagen */
 .texto-superpuesto h1 {
   position: absolute;
@@ -191,13 +187,7 @@
   color: #b94866 !important;
   font-weight: bold;
 }
-.form-center{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -30%);
-  
-}
+
 
 .container {
   display: flex;
