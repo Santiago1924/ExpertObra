@@ -93,11 +93,6 @@
   font-weight: bold;
 }
 
-/* Estilo para dropdowns */
-.dropdown-menu {
-  background-color: #fff;
-  border: 1px solid #ddd;
-}
 
 .dropdown-item:hover {
   background-color: #f0f0f0;
