@@ -116,19 +116,7 @@
 
 /* ---------------------- HERO SECTION / CUERPO ---------------------- */
 
-.hero-section {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 624px; /* Puedes ajustar según tu diseño */
-  width: 1520px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-align: center;
-  position: absolute;
-}
+
 
 /* Texto principal (h1) superpuesto sobre imagen */
 .texto-superpuesto h1 {
