@@ -77,14 +77,14 @@
 
 /* Estilos del menú de navegación */
 .navbar-nav .nav-link {
-  color: #1a1a1a;
+  color: #b94866;
   font-weight: 500;
   padding: 0.5rem 1rem;
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-  color: #004aad;
+  color: #b94866;
 }
 
 /* Enlace "Ingresar" en color naranja */
